@@ -1,0 +1,8 @@
+Instance 1:
+Blue node 1 matched with pink node 2
+Blue node 2 matched with pink node 1
+Instance 2:
+Blue node 1 matched with pink node 1
+Blue node 2 matched with pink node 4
+Blue node 3 matched with pink node 2
+Blue node 4 matched with pink node 3
